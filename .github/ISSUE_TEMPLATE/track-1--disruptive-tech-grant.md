@@ -22,7 +22,7 @@ If this application in response to a then please indicate this on the first line
 Please provide the following:
 
 - A brief description of the project.
-- An indication of how you will integrate this project into Substrate / Polkadot / Kusama.
+- An indication of how you will integrate this project into Waves / Gravity / Neutrino.
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
@@ -74,7 +74,7 @@ Please describe the team's relevant experience. If the project involves developm
 
 This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions it should be clear how the project is related to Substrate and/or Polkadot. We recommend that the scope of the work can fit within a 3 month period and that teams structure their roadmap as 1 month = 1 milestone.
+Below we provide an **example roadmap**. In the descriptions, it should be clear how the project is related to Waves. We recommend that the scope of the work can fit within a 3 month period and that teams structure their roadmap as 1 month = 1 milestone.
 
 For each milestone:
 
@@ -91,7 +91,7 @@ For each milestone:
 - **Full-time equivalent (FTE):** Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
 - **Total Costs:** Amount of Payment in BTC for the whole project. The total amount of funding needs to be below $30k at the time of submission.
 
-### Milestone 1 Example — Implement Substrate Modules
+### Milestone 1 Example — Implement Waves Modules
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1
@@ -100,12 +100,12 @@ For each milestone:
 | Number | Deliverable         | Specification                                                |
 | ------ | ------------------- | ------------------------------------------------------------ |
 | 0a.    | License             | Apache 2.0 / MIT / Unlicense                                 |
-| 0b.    | Documentation       | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
+| 0b.    | Documentation       | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Waves nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c.    | Testing Guide       | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
-| 1.     | Substrate module: X | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |
-| 2.     | Substrate module: Y | We will create a Substrate module that will...               |
-| 3.     | Substrate module: Z | We will create a Substrate module that will...               |
-| 4.     | Substrate chain     | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
+| 1.     | Waves module: X | We will create a Waves module that will... (Please list the functionality that will be coded for the first milestone) |
+| 2.     | Waves module: Y | We will create a Waves module that will...               |
+| 3.     | Waves module: Z | We will create a Waves module that will...               |
+| 4.     | Waves chain     | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
 | 5.     | Docker              | We will provide a dockerfile to demonstrate the full functionality of our chain |
 
 ### Milestone 2 Example — Additional features
