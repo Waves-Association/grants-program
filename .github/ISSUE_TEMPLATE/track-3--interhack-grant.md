@@ -1,6 +1,7 @@
 ---
 name: Track 3. Interhack Grant
-about: Suggest an idea for this project
+about: Interhack grants are awarded for building innovative solutions at hackathons
+  in accordance with assignments provided by the Waves Association.
 title: "[Track 3. Interhack Grant] "
 labels: Interhack Grant
 assignees: KardanovIR

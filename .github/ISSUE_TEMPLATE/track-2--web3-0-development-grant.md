@@ -1,6 +1,7 @@
 ---
 name: Track 2. Web3.0 Development Grant
-about: Suggest an idea for this project
+about: Web 3.0 Development Grant is awarded for creating products based on the Waves
+  protocol that resolves specific problems and foster mass adoption.
 title: "[Track 2. Web3.0 Development Grant] "
 labels: Web3.0 Development Grant
 assignees: KardanovIR

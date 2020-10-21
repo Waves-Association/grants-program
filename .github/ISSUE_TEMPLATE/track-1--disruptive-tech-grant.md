@@ -1,6 +1,7 @@
 ---
 name: Track 1. Disruptive Tech Grant
-about: Suggest an idea for this project
+about: Disruptive Tech Grant is awarded to implement tasks dedicated to developing
+  solutions that meet the rapidly accelerating Waves ecosystem’s needs.
 title: "[Track 1. Disruptive Tech Grant] "
 labels: Disruptive Tech Grant
 assignees: KardanovIR
