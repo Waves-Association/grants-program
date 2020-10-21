@@ -1,126 +1,69 @@
 ---
 name: Track 1. Disruptive Tech Grant
 about: Suggest an idea for this project
-title: ''
+title: "[Track 1. Disruptive Tech Grant] "
 labels: Disruptive Tech Grant
 assignees: KardanovIR
 
 ---
 
-- **Project:** The name of the project
-- **Proposer:** GitHub username (email address)
-- **Payment Address:** Waves Address
+- **Proposer:** Introduce yourself (name, surname) 
+- **Contacts:** Your email or telegram handle
+- **Github username:** Your Github login
 
-*The above combination of your GitHub account and payment address will be your unique identifier during the program. Please keep them safe.*
+## 👥  Team 
 
-## Project Overview 📄
+- Are you applying to implement the grant as an individual developer or do you represent a team?
+- Are you a startup or an ongoing business? (in case applying as a team or startup)
+- What’s your team or startup name? What is a website? (in case applying as a team or startup)
 
-If this application in response to a then please indicate this on the first line of this section.
-
-### Overview
-
-Please provide the following:
-
-- A brief description of the project.
-- An indication of how you will integrate this project into Waves / Gravity / Neutrino.
-- An indication of why your team is interested in creating this project.
-
-### Project Details
-
-We expect the teams to already have a solid idea about the project's expected final state.
-
-Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-
-### Ecosystem Fit
-
-Are there any other projects similar to yours? If so, how is your project different?
-
-## Team 👥
-
-### Team members
+### Team members  (in case applying as a team or startup)
 
 - Name of team leader
 - Names of team members
 
-### Team Website
+### Team experience  (in case applying as a team or startup)
 
-- https://<your_domain>
-
-### Legal Structure
-
-Please provide the name and registered address of the legal entity executing the project.
-
-### Team's experience
-
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated if you can single out a few interesting code commits made by team members on their past projects. For research-related grants, references to past publications and projects in a related domain are helpful.
+- Please describe your (team/startup) development experience and technological stack? 
+- Do(es) you(r) (team/startup) have experience in using Waves technologies?
+- Please attach your (team/startup) portfolio (projects you’ve been involved in) 
+- Team website
 
 ### Team Code Repos
 
 - https://github.com/<your_repo_1>
 - https://github.com/<your_repo_2>
 
-### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+## 🔍 Overview
 
-## Development Roadmap 🔩
+If this application in response to a public task then please indicate this on the first line of this section.
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
+Please describe your solution idea by the following structure:
 
-Below we provide an **example roadmap**. In the descriptions, it should be clear how the project is related to Waves. We recommend that the scope of the work can fit within a 3 month period and that teams structure their roadmap as 1 month = 1 milestone.
+- Short description of the solution you suggest
+- How does it solve the specified problem?
+- How you will integrate this project into Waves / Gravity / Neutrino.
+- Why your team is interested in creating this project.
+- What is the target audience of the final solution?
+- What is the “secret sauce” of it?
+- What is the duration of the whole project?
+- Resources required to implement the grant task
 
-For each milestone:
+### Ecosystem Fit
 
-- Please be sure to include a specification of the software. The level of detail must be enough so that we are able to verify that the software meets the specification.
-- Please include total amount of funding requested per milestone.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing a dockerfiles for the delivery of your project.
-- Please indicate the milestone duration, as well as number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.
+Are there any other projects similar to yours? If so, how is your project different?
+
+
+## 🔩 Development Roadmap 
+
+This section should break out the development roadmap into a number of milestones. It helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the roadmap to ensure that everything has been delivered as expected.
 
 ### Overview
 
 - **Total Estimated Duration:** Duration of the whole project
-- **Full-time equivalent (FTE):** Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-- **Total Costs:** Amount of Payment in BTC for the whole project. The total amount of funding needs to be below $30k at the time of submission.
+- **Total Costs:** Amount of Payment in Waves for the whole project. The total amount of funding needs to not more than 100k Waves.
 
-### Milestone 1 Example — Implement Waves Modules
-
-- **Estimated Duration:** 1 month
-- **FTE:** 1
-- **Costs:** 0.75 BTC
-
-| Number | Deliverable         | Specification                                                |
-| ------ | ------------------- | ------------------------------------------------------------ |
-| 0a.    | License             | Apache 2.0 / MIT / Unlicense                                 |
-| 0b.    | Documentation       | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Waves nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c.    | Testing Guide       | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
-| 1.     | Waves module: X | We will create a Waves module that will... (Please list the functionality that will be coded for the first milestone) |
-| 2.     | Waves module: Y | We will create a Waves module that will...               |
-| 3.     | Waves module: Z | We will create a Waves module that will...               |
-| 4.     | Waves chain     | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |
-| 5.     | Docker              | We will provide a dockerfile to demonstrate the full functionality of our chain |
-
-### Milestone 2 Example — Additional features
-
-...
-
-### Community engagement
-
-As part of the Program, we require that you produce an article/tutorial and publish it (for example on [Medium](https://medium.com/)). It should explain your work done as part of the grant.
-
-Normally, we ask you to submit the write-up upon the completion of your grant, although for larger projects it might make sense to publish multiple articles after the completion of different milestones.
-
-## Future Plans
-
-Please include the team's long-term plans and intentions.
 
 ## Additional Information ➕
 
@@ -128,8 +71,8 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 
-- What work has been done so far?
-- Are there are any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
-
-<details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog" style="box-sizing: border-box; display: block;"><summary data-hotkey="l" aria-label="Jump to line" role="button" style="box-sizing: border-box; display: list-item; cursor: pointer; list-style: none;"></summary></details>
+- Mockups/designs of any UI components
+- API specifications of the core functionality
+- An overview of the technology stack to be used
+- Documentation of core components, protocols, architecture etc. to be deployed
+- PoC/MVP or other relevant prior work or research on the topic
