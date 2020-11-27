@@ -11,6 +11,7 @@ assignees: KardanovIR
 - **Proposer:** Introduce yourself (name, surname) 
 - **Contacts:** Your email or telegram handle
 - **Github username:** Your Github login
+- **Reward:** Amount in USDN if different from default reward
 
 ## 👥  Team 
 
