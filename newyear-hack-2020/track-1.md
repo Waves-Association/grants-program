@@ -108,9 +108,13 @@ Described functionality should be implemented in the given order (I–VIII).
 ## Useful links
 
 Gravity White Paper – https://arxiv.org/pdf/2007.00966.pdf 
+
 SuSy White Paper – https://arxiv.org/pdf/2008.13515.pdf
+
 Gravity Tech Github – https://github.com/Gravity-Tech
+
 Hackathon/Grant Application Form – https://github.com/Waves-Association/grants-program/issues
+
 
 
 
