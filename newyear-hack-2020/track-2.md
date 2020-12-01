@@ -1,4 +1,4 @@
-# Gravity Interoperability Hackathon: integrating Solana
+# Gravity Interoperability Hackathon: integrating Fantom
 
 ## Preface
 
