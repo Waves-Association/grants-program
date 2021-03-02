@@ -8,6 +8,11 @@ assignees: KardanovIR
 
 ---
 
+BEFORE YOU START: 
+
+1. Please use [Certificado project issue as an example of good application for a grant](https://github.com/Waves-Association/grants-program/issues/14)
+2. Waves Assocation Members can ask questions about your project and they will leave questions in this issue, so please keep an eye on the issue and reply to comments and questions.
+
 - **Proposer:** Introduce yourself (name, surname) 
 - **Contacts:** Your email or telegram handle
 - **Github username:** Your Github login
@@ -57,6 +62,35 @@ Are there any other projects similar to yours? If so, how is your project differ
 ## 🔩 Development Roadmap 
 
 This section should break out the development roadmap into a number of milestones. It helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the roadmap to ensure that everything has been delivered as expected.
+
+**Step #1**: \[Example\] Certificado Service
+
+- Automatization of Certificado Edu b2b-service ($X)
+- Pilot for Certificado Protocol in non-education field ($X)
+- Product package ($X)
+- Attraction new EdTech clients ($X)
+
+
+**Step #2**:  \[Example\] Certificado Wallet
+
+- Certificates Wallet for documents issued on Certificado Protocol ($X)
+- Attracting teachers and new EdTech clients ($X)
+- Media coverage ($X)
+- Launching Certificado Protocol as an open source tool for external teams ($X)
+- Promoting Certificado Protocol to attract developers - hackathons, media, tutorials ($X)
+
+
+**Step #3**:  \[Example\] Certificado Cross-chain Wallet
+
+- Creating bridges to certification services based in another protocols ($X)
+- Universal Certificates Wallet for different certificates types ($X)
+- Promoting Certificado Edu or another service on top of Certificado Protocol to bigger enterprises ($X)
+
+Within this application we are requesting **Step #1** funding with a total cost of $X (or Y WAVES) and following KPIs to deliver:
+
+- Y certificates issued in total
+- Z media views in total
+
 
 ### Overview
 
