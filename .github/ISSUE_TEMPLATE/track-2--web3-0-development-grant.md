@@ -8,10 +8,12 @@ assignees: KardanovIR
 
 ---
 
-BEFORE YOU START: 
+\[BEFORE YOU START\]:
 
 1. Please use [Certificado project issue as an example of good application for a grant](https://github.com/Waves-Association/grants-program/issues/14)
 2. Waves Assocation Members can ask questions about your project and they will leave questions in this issue, so please keep an eye on the issue and reply to comments and questions.
+
+---
 
 - **Proposer:** Introduce yourself (name, surname) 
 - **Contacts:** Your email or telegram handle
